@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 About Me
+## 📌 关于此项目
 
 - 本项目修改自开源项目 https://github.com/CatVodTVOfficial/TVBoxOSC 在此致敬！🌹🌹🌹 
 - 本项目在功能上没有太多改进，主要对操作体验依个人喜好进行了优化 
@@ -110,7 +110,8 @@ Thanks for visiting! 🎉 Come back soon. 👋
 ---
 
 ## 📥 捐赠
-在应用首页，点击捐赠按钮
+由于电视壳子的一些功能需要用到服务器资源，为覆盖基本开销，我们接受捐赠。
+方式：在应用首页，点击捐赠按钮
 ![donation](https://github.com/user-attachments/assets/5656f86e-50d9-4e28-b95e-49094effb8ad)
 
 
