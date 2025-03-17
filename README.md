@@ -121,8 +121,12 @@ Thanks for visiting! 🎉 Come back soon. 👋
 
 ## 📥 捐赠
 由于电视壳子的一些功能需要用到服务器资源，为覆盖基本开销，我们接受捐赠。
+
 方式：在应用首页，点击捐赠按钮
-![donation](https://github.com/user-attachments/assets/5656f86e-50d9-4e28-b95e-49094effb8ad)
+
+### 捐赠页
+
+<img src="images/donation.png" alt="Example Image" width="600" >
 
 
 
