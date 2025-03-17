@@ -59,3 +59,49 @@
 
 Thanks for visiting! 🎉 Come back soon. 👋
 
+<div align="center">
+
+# 🚀 Awesome Project
+
+![GitHub license](https://img.shields.io/github/license/username/repo?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/username/repo?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/username/repo?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/username/repo?style=flat-square)
+
+</div>
+
+---
+
+## 📜 目录
+- [简介](#-简介)
+- [功能](#-功能)
+- [安装](#-安装)
+- [使用](#-使用)
+- [贡献](#-贡献)
+- [许可证](#-许可证)
+
+---
+
+## 🌟 简介
+这是一个超酷的开源项目，旨在帮助你快速构建高效的应用。无论你是初学者还是资深开发者，这个项目都能为你提供强大的支持！
+
+> **提示**：如果你喜欢这个项目，请点个 ⭐️ 支持我们！
+
+---
+
+## 🛠️ 功能
+以下是本项目的主要功能：
+
+| 功能       | 描述                     | 状态   |
+|------------|--------------------------|--------|
+| 登录       | 用户登录功能             | ✅ 完成 |
+| 注册       | 用户注册功能             | 🚧 开发中 |
+| 搜索       | 支持关键字搜索           | ❌ 未开始 |
+
+---
+
+## 📥 安装
+### 通过 npm 安装
+```bash
+npm install awesome-project
+
