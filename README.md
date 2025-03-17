@@ -112,6 +112,10 @@ Thanks for visiting! 🎉 Come back soon. 👋
 
 <img src="images/detail.png" alt="Example Image" width="600" >
 
+### 影人关联
+
+<img src="images/personage.png" alt="Example Image" width="600" >
+
 
 ---
 
