@@ -1,4 +1,4 @@
-# 🌟 欢迎来到“电视壳子（ShellTV）”! 🚀
+# 🌟 电视壳子（ShellTV）! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue) ![Stars](https://img.shields.io/github/stars/your-username?style=social) ![Followers](https://img.shields.io/github/followers/your-username?style=social)
 
