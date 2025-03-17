@@ -109,8 +109,9 @@ Thanks for visiting! 🎉 Come back soon. 👋
 
 ---
 
-## 📥 安装
-### 通过 npm 安装
-```bash
-npm install awesome-project
+## 📥 捐赠
+在应用首页，点击捐赠按钮
+![donation](https://github.com/user-attachments/assets/5656f86e-50d9-4e28-b95e-49094effb8ad)
+
+
 
