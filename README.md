@@ -100,15 +100,15 @@ Thanks for visiting! 🎉 Come back soon. 👋
 | 注册       | 用户注册功能             | 🚧 开发中 |
 | 搜索       | 支持关键字搜索           | ❌ 未开始 |
 
-###主页
+### 主页
 
 <img src="images/home.png" alt="Example Image" width="600" >
 
-###搜索页
+### 搜索页
 
 <img src="images/fastSearch.png" alt="Example Image" width="600" >
 
-###详情页
+### 详情页
 
 <img src="images/detail.png" alt="Example Image" width="600" >
 
