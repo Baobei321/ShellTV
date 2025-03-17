@@ -100,6 +100,8 @@ Thanks for visiting! 🎉 Come back soon. 👋
 | 注册       | 用户注册功能             | 🚧 开发中 |
 | 搜索       | 支持关键字搜索           | ❌ 未开始 |
 
+<img src="images/home.png" alt="Example Image" width="200" height="100">
+
 ![home](https://github.com/user-attachments/assets/7e598227-9f70-4cdf-a835-a4e3336ac4f7)
 
 ![search](https://github.com/user-attachments/assets/cec5483b-9e43-46e2-93aa-617365a8efa6)
