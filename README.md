@@ -10,6 +10,7 @@
 - 本项目在功能上没有太多改进，主要对操作体验依个人喜好进行了优化 **Java, Android, and Web Scraping**.
 - 增加基于影片的关联推荐，以及基于影人的关联推荐
 - 对数据源文件语法增加一些定义，以更好处理影片元数据缺失问题（如海报等）
+- 内嵌缺省EPG源
 - 其它一些功能设置
 - 📫 How to reach me: [Email Me](mailto:your.email@example.com)
 - 🌐 Visit my website: [your-website.com](https://your-website.com)
