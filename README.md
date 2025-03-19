@@ -101,6 +101,11 @@ Thanks for visiting! 🎉 Come back soon. 👋
 | 注册       | 用户注册功能             | 🚧 开发中 |
 | 搜索       | 支持关键字搜索           | ❌ 未开始 |
 
+样例如下：
+[源配置样例.json](src/源配置样例.json)
+
+> {"key":"PanSou","name":"🦊 阿里盘搜","type":3,"hide":1,"api":"csp_PanSou","hasPoster":0,"hasMeaningfulTitle":0,"hasTags":0,"searchable":1,"quickSearch":1,"changeable":0,"jar": "./file?name=libs/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+
 ### 主页
 
 <img src="images/home.png" alt="Example Image" width="600" >
