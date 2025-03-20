@@ -1,9 +1,9 @@
-# 🌟 **电视壳子**（ShellTV）! 🚀
+<h1 align="center">电视壳子（ShellTV）</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue) ![Stars](https://img.shields.io/github/stars/your-username?style=social) ![Followers](https://img.shields.io/github/followers/your-username?style=social)
 
 
-# 目录
+<h3 align="center">目  录</h1>
 
 - [关于此项目](#-关于此项目)
 - [对源配置文件语法的补充定义](#️-对源配置文件语法的补充定义)
