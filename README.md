@@ -78,7 +78,8 @@
 1.根据你所在地区和宽带提供商，在github或百度搜索并下载相应的IPTV组播地址文件，关键字：iptv 组播（比如 https://github.com/xisohi/IPTV-Multicast-source ）
 
 2.按以下两种格式修改生成tvbox直播配置文件：[直播配置传统格式](./直播配置传统格式.m3u)（group-title标识分组）、[直播配置简化格式](./直播配置简化格式.m3u)（#EXTGENRE 标识分组）
-3. 获取机顶盒文件[存储权限](./images/rights.jpg)。
+
+3.获取机顶盒文件[存储权限](./images/rights.jpg)。
 4.将修改后的配置文件（.m3u）上传到机顶盒：打开[APP源配置界面](./images/config.png) ➜ [用电脑或手机连接](./images/config_pc.png) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将直播配置文件上传至该文件夹 ➜ [在APP源配置界面“直播地址”一栏中填写正确地址](./images/iptv.png)（如，`http://localhost:9978/file/shelltv/直播配置.m3u`，其中shelltv是刚刚创建的方件夹，直播配置.m3u是上传的配置文件） ➜ 确定保存并退出。(一个测试以上配置是否正确的方法是，将上面地址输入到电脑浏览器的地址栏中，，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
 
 4.在**电视壳子**主页，点击直播，即可看到[直播节目](./images/broadcast.png)。（注意选择正确的播放器，通常是IJK）
