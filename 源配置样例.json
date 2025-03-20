@@ -1,46 +1,10 @@
 {
-  "spider": "./file?name=leo.jar;md5;928787071b399acc863d001929973803",
+  "spider": "./样例.jar;md5;928787071b399acc863d001929973803",
   "wallpaper":"https://深色壁纸.xxooo.cf/",
   "sites":[
     {"key": "csp_douban","name": "🌕 豆瓣热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key":"alipanx","name":"🐭 LEO盘搜","type":1,"hide":1,"api":"./alipanx/","playAsPush":1,"hasPoster":0,"hasMeaningfulTitle":0,"hasTags":0,"searchable":1,"quickSearch": 1,"filterable":0,"ext": {  "aliToken": "tvfan/token.txt",  "from": "4k|auto|fhd"}},
-
-    {"key":"PanSou","name":"🦊 阿里盘搜","type":3,"hide":1,"api":"csp_PanSou","hasPoster":0,"hasMeaningfulTitle":0,"hasTags":0,"searchable":1,"quickSearch":1,"changeable":0,"jar": "./file?name=libs/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-    {"key":"UpYun","name":"😻 云搜","type":3,"hide":1,"api":"csp_UpYun","hasPoster":0,"hasMeaningfulTitle":0,"searchable":1,"hasTags":0,"quickSearch":1,"changeable":0,"jar": "./file?name=libs/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-
-
-
-    {
-      "key": "抠搜",
-      "name": "🍄 抠抠搜搜",
-      "type": 3,
-      "hide":1,
-      "api": "csp_KkSs","hasPoster":1,"hasMeaningfulTitle":1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,"hasTags":0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "Sso",
-      "name": "🐌 盘他三盘",
-      "type": 3,
-      "hide":1,"hasTags":0,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","playAsPush":1,"hasPoster":0,"hasMeaningfulTitle":0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/盘他.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    // {"key":"南瓜","name":"🎃 南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"南瓜","name":"🎃 南瓜","type":3,"hide":1,"api":"csp_NanGua","playerType":1,"searchable":1,"jar": "./libs/jar/nangua.jar","ext":"maHR0cDovL3Z2cy5jaGFuZ21lbmd5dW4uY29t"},
-    {"key":"YiSo","name":"😹 易搜","type":3,"hide":1,"api":"csp_YiSo","hasPoster":0,"hasTags":0,"hasMeaningfulTitle":0,"searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-
-    {"key":"米搜","name":"🦋 米搜","type":3,"hide":1,"api":"csp_MIPanSo","hasPoster":0,"hasTags":0,"hasMeaningfulTitle":0,"searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-
+    {"key":"PanSou","name":"🦊 阿里盘搜","type":3,"hide":1,"api":"csp_PanSou","hasPoster":0,"hasMeaningfulTitle":0,"hasTags":0,"searchable":1,"quickSearch":1,"changeable":0,"jar": "./libs/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+    {"key":"UpYun","name":"😻 云搜","type":3,"hide":1,"api":"csp_UpYun","hasPoster":0,"hasMeaningfulTitle":0,"searchable":1,"hasTags":0,"quickSearch":1,"changeable":0,"jar": "./libs/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
     {"key":"push_agent","name":"🛴 推送","type":3,"hide":1,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}
 
