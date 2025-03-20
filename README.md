@@ -1,4 +1,5 @@
 <h1 align="center">电视壳子（ShellTV）</h1>
+<img src="./images/shelltv.png" alt="My Image" width="100"/>
 
 
 - [关于此项目](#-关于此项目)
