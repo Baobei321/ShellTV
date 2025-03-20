@@ -1,0 +1,10 @@
+#EXTGENRE BTV
+#EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视
+rtp://239.3.1.241:8000
+#EXTINF:-1 tvg-name="BTV新闻",BRTV新闻
+
+#EXTGENRE CCTV
+#EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合
+rtp://239.3.1.129:8008
+#EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经
+rtp://239.3.1.60:8084bjuc.m3u
