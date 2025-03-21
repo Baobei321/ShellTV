@@ -30,7 +30,7 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
 定义影视站点，每个站点包含名称、API 地址、分类等信息。
 
 ```json
->"sites": [
+"sites": [
   {
     "key": "site1",
     "name": "站点1",
@@ -38,7 +38,8 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
     "api": "https://example.com/api/v1",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1
+    "filterable": 1,
+    "hide": 0
   },
   {
     "key": "site2",
@@ -47,30 +48,26 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
     "api": "https://example.com/api/v2",
     "searchable": 1,
     "quickSearch": 0,
-    "filterable": 0
+    "filterable": 0,
+     "hide": 1
   }
 ]
 ```
 
-
-key：站点唯一标识。
-
-name：站点名称。
-
-type：站点类型（3 表示普通站点）。
-
-api：站点 API 地址。
-
-searchable：是否支持搜索（1 支持，0 不支持）。
-
-quickSearch：是否支持快速搜索。
-
-filterable：是否支持筛选。
+- key：站点唯一标识。
+- name：站点名称。
+- type：站点类型（3 表示普通站点）。
+- api：站点 API 地址。
+- searchable：是否支持搜索（1 支持，0 不支持）。
+- quickSearch：是否支持快速搜索。
+- filterable：是否支持筛选。
+- hide: 是否首页源选择中隐藏站点（1 隐藏，0 不隐藏）。
 
 ### (3) parses（解析规则列表）
 定义视频解析规则，通常是一个 URL 或 JS 脚本。
+
 ```json
->"parses": [
+"parses": [
   {
     "name": "解析1",
     "url": "https://example.com/parse1.js"
@@ -84,7 +81,7 @@ filterable：是否支持筛选。
 ### (4) flags（分类标识）
 定义影视分类，用于首页推荐或筛选。
 ```json
->"flags": [
+"flags": [
   "国产剧",
   "美剧",
   "韩剧",
@@ -92,11 +89,11 @@ filterable：是否支持筛选。
   "电影",
   "综艺"
 ]
-
+```
 ### (5) lives（直播源配置）
 定义直播源，支持 M3U 或 TXT 格式。
 ```json
->"lives": [
+"lives": [
   {
     "name": "直播1",
     "type": 0,
@@ -108,12 +105,14 @@ filterable：是否支持筛选。
     "url": "https://example.com/live2.txt"
   }
 ]
+```
 type：0 表示 M3U 格式，1 表示 TXT 格式。
 
 ### (6) ijk（播放器配置）
 配置播放器参数，如解码器、硬解等。
+
 ```json
->"ijk": {
+"ijk": {
   "mediaCodec": 1,
   "mediaCodecAutoRotate": 1,
   "mediaCodecHandleResolutionChange": 1,
@@ -125,7 +124,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
 定义广告内容，通常是一个 URL 或 JS 脚本。
 
 ```json
->"ads": [
+"ads": [
   {
     "name": "广告1",
     "url": "https://example.com/ad1.js"
@@ -136,13 +135,14 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
 配置 DNS-over-HTTPS 服务，用于解析域名。
 
 ```json
->"doh": [
+"doh": [
   {
     "name": "Cloudflare",
     "url": "https://cloudflare-dns.com/dns-query"
   }
 ]
 ```
+
 --- 
 
 ## 3. 示例配置文件
