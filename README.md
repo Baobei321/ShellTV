@@ -69,7 +69,7 @@
 1. 百度或Github 搜索、下载一个你基本满意的配置文件，作为模板（注，如果你想做全套，还要将这个源配置文件中索引的其它文件一并下载，如.jar和.m3u文件等）
 2. 根据[基础语法](./tvbox源配置文件基本语法.md)和[扩展语法定义](#️-对源配置文件语法的补充定义)，对模板进行修改，包括，删除、排序或拼接等（注，修改过程中要确保其中的索引文件地址正确，你可能需要将原有的相对地址改为绝对地址，或将原有的绝对地址改为相对地址）
 3. 获取机顶盒文件[存储权限](./images/rights.jpg)。
-4. 将修改后的配置文件（.json）和相关的其它文件（.jar, .m3u）上传到机顶盒：打开[APP源配置界面](./images/config.png) ➜ [用电脑或手机连接](./images/config_pc.png) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将直播配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/source.png)（如，`http://localhost:9978/file/shelltv/源配置样例.json`，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.png)上显示的端口号，“localhost”和“file”是固定的） ➜ 确定保存并退出。(一个测试以上配置是否正确的方法是，将上面地址输入到电脑浏览器的地址栏中，，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
+4. 将修改后的配置文件（.json）和相关的其它文件（.jar, .m3u）上传到机顶盒：打开[APP源配置界面](./images/config.png) ➜ [用电脑或手机连接](./images/config_pc.png) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将直播配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/source.png)（如，`http://localhost:9978/file/shelltv/源配置样例.json`，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.png)上显示的端口号，“localhost”和“file”是固定的） ➜ 确定保存并退出。(一个测试以上配置是否正确的方法是，将上面地址输入到电脑浏览器的地址栏中，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
 
 --- 
 
