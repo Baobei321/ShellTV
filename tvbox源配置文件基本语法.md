@@ -1,12 +1,11 @@
 
 <h1 align="center">TvBox 配置文件基本语法</h1>
 
-
-
 ## 1. 配置文件的基本结构
 TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
+
 ```json
->{
+{
   "spider": "数据源爬虫配置",
   "sites": "站点列表",
   "parses": "解析规则列表",
@@ -16,15 +15,20 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
   "ads": "广告配置",
   "doh": "DNS-over-HTTPS 配置"
 }
+```
+
 
 ## 2. 常见配置项详解
 ### (1) spider（数据源爬虫配置）
 用于定义数据源的爬虫规则，通常是一个 URL 或 JS 脚本。
+
 ```json
-> "spider": "https://example.com/spider.jar"
+"spider": "https://example.com/spider.jar"
+```
 
 ### (2) sites（站点列表）
 定义影视站点，每个站点包含名称、API 地址、分类等信息。
+
 ```json
 >"sites": [
   {
@@ -46,6 +50,7 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
     "filterable": 0
   }
 ]
+```
 
 
 key：站点唯一标识。
@@ -75,7 +80,7 @@ filterable：是否支持筛选。
     "url": "https://example.com/parse2.js"
   }
 ]
-
+```
 ### (4) flags（分类标识）
 定义影视分类，用于首页推荐或筛选。
 ```json
@@ -115,7 +120,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
   "opensles": 0,
   "soundTouch": 1
 }
-
+```
 ### (7) ads（广告配置）
 定义广告内容，通常是一个 URL 或 JS 脚本。
 
@@ -126,7 +131,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
     "url": "https://example.com/ad1.js"
   }
 ]
-
+```
 ### (8) doh（DNS-over-HTTPS 配置）
 配置 DNS-over-HTTPS 服务，用于解析域名。
 
@@ -137,7 +142,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
     "url": "https://cloudflare-dns.com/dns-query"
   }
 ]
-
+```
 --- 
 
 ## 3. 示例配置文件
@@ -192,7 +197,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
     }
   ]
 }
-
+```
 --- 
 
 ### 4. 注意事项
