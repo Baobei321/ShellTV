@@ -5,7 +5,7 @@
 
 ## 1. 配置文件的基本结构
 TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
-
+```json
 >{
   "spider": "数据源爬虫配置",
   "sites": "站点列表",
@@ -20,12 +20,12 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
 ## 2. 常见配置项详解
 ### (1) spider（数据源爬虫配置）
 用于定义数据源的爬虫规则，通常是一个 URL 或 JS 脚本。
-
+```json
 > "spider": "https://example.com/spider.jar"
 
 ### (2) sites（站点列表）
 定义影视站点，每个站点包含名称、API 地址、分类等信息。
-
+```json
 >"sites": [
   {
     "key": "site1",
@@ -64,7 +64,7 @@ filterable：是否支持筛选。
 
 ### (3) parses（解析规则列表）
 定义视频解析规则，通常是一个 URL 或 JS 脚本。
-
+```json
 >"parses": [
   {
     "name": "解析1",
@@ -78,7 +78,7 @@ filterable：是否支持筛选。
 
 ### (4) flags（分类标识）
 定义影视分类，用于首页推荐或筛选。
-
+```json
 >"flags": [
   "国产剧",
   "美剧",
@@ -90,7 +90,7 @@ filterable：是否支持筛选。
 
 ### (5) lives（直播源配置）
 定义直播源，支持 M3U 或 TXT 格式。
-
+```json
 >"lives": [
   {
     "name": "直播1",
@@ -107,7 +107,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
 
 ### (6) ijk（播放器配置）
 配置播放器参数，如解码器、硬解等。
-
+```json
 >"ijk": {
   "mediaCodec": 1,
   "mediaCodecAutoRotate": 1,
@@ -119,6 +119,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
 ### (7) ads（广告配置）
 定义广告内容，通常是一个 URL 或 JS 脚本。
 
+```json
 >"ads": [
   {
     "name": "广告1",
@@ -129,6 +130,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
 ### (8) doh（DNS-over-HTTPS 配置）
 配置 DNS-over-HTTPS 服务，用于解析域名。
 
+```json
 >"doh": [
   {
     "name": "Cloudflare",
@@ -141,6 +143,7 @@ type：0 表示 M3U 格式，1 表示 TXT 格式。
 ## 3. 示例配置文件
 以下是一个完整的配置文件示例：
 
+```json
 {
   "spider": "https://example.com/spider.js",
   "sites": [
