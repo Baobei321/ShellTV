@@ -1,11 +1,6 @@
 <h1 align="center">电视壳子（ShellTV）</h1>
+<img src="./images/shelltv.png" alt="My Image" width="100"/>
 
-
-
-
-<div style="display: flex; align-items: center;">
-
-  <div style="flex: 1;">
 
 - [关于此项目](#-关于此项目)
 - [对源配置文件语法的补充定义](#️-对源配置文件语法的补充定义)
@@ -14,13 +9,6 @@
 - [关于IPTV](#-关于iptv)
 - [捐赠](#-捐赠)
 
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-   <img src="./images/shelltv.png" alt="My Image" width="100"/>
-  </div>
-
-</div>
 
 ---
 
