@@ -79,8 +79,9 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
     "type": 1
   }
 ]
-- type: 0= 普通嗅探， 1= json， 2=Json扩展， 3= 聚合
 ```
+- type: 0= 普通嗅探， 1= json， 2=Json扩展， 3= 聚合
+
 ### (4) flags（分类标识）
 定义影视分类，用于首页推荐或筛选。
 ```json
@@ -101,13 +102,13 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
     "name": "直播1",
     "type": 0,
     "url": "https://example.com/live1.m3u",
-    “playertype”: 0
+    "playertype": 0
   },
   {
     "name": "直播2",
     "type": 1,
     "url": "https://example.com/live2.txt",
-    “playertype”: 1
+    "playertype": 1
   }
 ]
 ```
