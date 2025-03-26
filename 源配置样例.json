@@ -3,7 +3,7 @@
   "wallpaper":"https://深色壁纸.xxooo.cf/",
   "sites":[
     {"key": "csp_douban","name": "🌕 豆瓣热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key":"PanSou","name":"🦊 阿里盘搜","type":3,"hide":1,"api":"csp_PanSou","hasPoster":0,"hasMeaningfulTitle":0,"hasTags":0,"searchable":1,"quickSearch":1,"changeable":0,"jar": "./libs/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+    {"key":"PanSou","name":"🦊 阿里盘搜","type":3,"hide":1,"api":"csp_PanSou","hasPoster":0,"hasMeaningfulTitle":0,"hasTags":0,"checkAlipan":1, "searchable":1,"quickSearch":1,"changeable":0,"jar": "./libs/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"UpYun","name":"😻 云搜","type":3,"hide":1,"api":"csp_UpYun","hasPoster":0,"hasMeaningfulTitle":0,"searchable":1,"hasTags":0,"quickSearch":1,"changeable":0,"jar": "./libs/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"push_agent","name":"🛴 推送","type":3,"hide":1,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}
 
