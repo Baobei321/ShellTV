@@ -57,6 +57,10 @@
 
 <img src="images/personage.png" alt="Example Image" width="600" >
 
+### 无效阿里源屏蔽
+
+<img src="images/disable.png" alt="Example Image" width="600" >
+
 --- 
 
 ## 🔑 玩法
