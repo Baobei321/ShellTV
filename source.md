@@ -3,7 +3,7 @@
 
 严重推荐“饭太硬”
 ```
-https://www.xn--sss604efuw.com/
+https://www.xn--sss604efuw.com/tv
 ```
 
 ```
