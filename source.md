@@ -5,7 +5,7 @@
 https://d.kstore.dev/download/7213/吃猫的鱼
 ```
 ```
-http://118.195.187.6:12345/tvbox/tvbox/file?name=demo.json
+http://118.195.187.6:12345/tvbox/tvbox/file?name=shell.json
 ```
 ```
 https://www.xn--sss604efuw.com/
