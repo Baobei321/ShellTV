@@ -19,7 +19,7 @@ https://d.kstore.dev/download/7213/吃猫的鱼
 ```
 https://tv.xn--yhqu5zs87a.top
 ```
- ➤ 小米（部分站点会闪退，如，“哔哩”）
+ ➤ 小米（部分站点会闪退，如，“哔哩”、“至臻”等）
 ```
 https://mpanso.me/DEMO.json
 ```
