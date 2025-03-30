@@ -2,7 +2,7 @@
 用户请自行甄别其合法性，本站不对内容负责。
 直播部分建议自行搞定iptv
 
--- 饭太硬（只能用APP访问,不稳定）
+ 饭太硬（只能用APP访问,不稳定）
 ```
 https://www.xn--sss604efuw.com/tv
 ```
@@ -12,4 +12,7 @@ https://www.xn--sss604efuw.com/tv
 http://118.195.187.6:12345/tvbox/tvbox/file?name=shell.json
 ```
 
-
+-- 吃猫的鱼
+```
+https://d.kstore.dev/download/7213/吃猫的鱼
+```
