@@ -1,13 +1,19 @@
 <h1 align="center">电视壳子（ShellTV）</h1>
 <img src="./images/shelltv.png" alt="My Image" width="100"/>
 
-
+- [快速上手](#-快速上手)
 - [关于此项目](#-关于此项目)
 - [对源配置文件语法的扩展](#️-对源配置文件语法的补充定义)
 - [界面截图](#-界面截图)
 - [玩法](#-玩法)
 - [关于IPTV](#-关于iptv)
 - [捐赠](#-捐赠)
+
+---
+
+## 🍔 快速上手
+- 上网搜索“tvbox 最新配置”，复制url地址，输入到下图红框位置（可以手动输入，或通过同一局域网中的手机或电脑远程输入），保存、退出
+<img src="images/config_fast.png" alt="Example Image" width="600" >
 
 
 ---
