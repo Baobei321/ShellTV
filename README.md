@@ -57,6 +57,10 @@
 
 <img src="images/home.png" alt="Example Image" width="600" >
 
+### 数据源选择
+
+<img src="images/source_select.png" alt="Example Image" width="600" >
+
 ### 搜索页
 
 <img src="images/fastSearch.png" alt="Example Image" width="600" >
