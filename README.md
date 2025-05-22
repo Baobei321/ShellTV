@@ -1,5 +1,5 @@
 <h1 align="center">电视壳子（ShellTV）</h1>
-<img src="./images/shelltv_icon.png" alt="My Image" width="100"/>
+<img src="./images/shelltv_white.png" alt="My Image" width="100"/>
 
 - [快速上手](#-快速上手)
 - [关于此项目](#-关于此项目)
