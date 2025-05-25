@@ -111,7 +111,7 @@
 
 3.获取机顶盒文件[存储权限](./images/rights.jpg)。
 
-4.将修改后的配置文件（.m3u）上传到机顶盒：打开[APP源配置界面](./images/config.png) ➜ [用电脑或手机连接](./images/config_pc.png) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将直播配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/iptv.png), 或直接点击[刚刚上传的配置文件](./images/new_local_file.png)，然后[选择clan开头的地址](./images/clan.png)，点击【使用】按钮（如果是手工填写地址，以下两种格式均可，`http://localhost:9978/file/shelltv/源配置样例.json` 或 `clan://localhost/shelltv/源配置样例.json`，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.png)上显示的端口号，“localhost”和“file”是固定的，如果系统中有多个tvbox版本，推荐使用后一种地址，以避免端口冲突） ➜ 确定保存并退出。(⚠️ 一个测试以上配置是否正确的方法是，将上面前一种地址（http开头）输入到处于同一局域网的电脑浏览器的地址栏中，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
+4.将修改后的配置文件（.m3u）上传到机顶盒：打开[APP源配置界面](./images/config.png) ➜ [用电脑或手机连接](./images/config_pc.png) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将直播配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/iptv.png)（例如，`http://localhost:9978/file/shelltv/源配置样例.json` ，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.png)上显示的端口号，“localhost”和“file”是固定的） ➜ 确定保存并退出。(⚠️ 一个测试以上配置是否正确的方法是，将上面前一种地址（http开头）输入到处于同一局域网的电脑浏览器的地址栏中，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
 
 4.在**电视壳子**主页，点击直播，即可看到[直播节目](./images/broadcast.png)。（⚠️ 注意选择正确的播放器，通常是IJK，你也可以在[源配置文件（.json）](./源配置样例.json)中指定）
 

@@ -20,10 +20,10 @@ TVBox 的配置文件通常是一个 JSON 文件，包含以下主要部分：
 
 ## 2. 常见配置项详解
 ### (1) spider（数据源爬虫配置）
-用于定义数据源的爬虫规则，通常是一个 URL 或 JS 脚本。
+用于定义数据源的爬虫规则，通常是一个 URL 或 JS 脚本，后面的md5信息可选。
 
 ```json
-"spider": "https://example.com/spider.jar"
+"spider": "https://example.com/spider.jar;md5;928787071b399acc863d001929973803"
 ```
 
 ### (2) sites（站点列表）
