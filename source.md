@@ -3,14 +3,14 @@
 直播部分建议自行搞定iptv
 
 
- ➤ CatVod
+ ➤ 影视猫 CatVod
 ```
 https://tvbox.catvod.com/catvod.json
 ```
 
- ➤ 饭太硬（只能用APP访问,不稳定）
+ ➤ 饭太硬
 ```
-https://www.xn--sss604efuw.com/tv
+http://www.饭太硬.com/tv
 ```
  ➤ 饭太硬备份（只能用ShellTV APP访问）
 ```
@@ -21,7 +21,6 @@ http://118.195.187.6:12345/tvbox/tvbox/file?name=shell.json
 https://d.kstore.dev/download/7213/吃猫的鱼
 ```
  ➤ 肥猫（部分站点会闪退，如，“哔哩”等）
-
 ```
 https://肥猫.com
 ```
