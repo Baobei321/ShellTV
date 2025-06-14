@@ -7,6 +7,11 @@
 http://影视仓.com
 ```
 
+ ➤ OK321
+```
+http://ok321.top/tv
+```
+
  ➤ 影视猫 CatVod
 ```
 https://tvbox.catvod.com/catvod.json
