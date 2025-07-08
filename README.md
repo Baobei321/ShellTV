@@ -80,6 +80,10 @@
 
 <img src="images/disable.png" alt="Example Image" width="600" >
 
+### 网盘挂载
+
+<img src="images/drive.png" alt="Example Image" width="600" >
+
 --- 
 
 ## 🔑 玩法
