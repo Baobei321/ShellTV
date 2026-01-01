@@ -23,6 +23,14 @@ http://www.饭太硬.com/tv
 ```
 http://118.195.187.6:12345/tvbox/tvbox/file?name=shell.json
 ```
+ ➤ 摸鱼儿
+```
+http://我不是.摸鱼儿.top
+```
+```
+http://我不是.摸鱼儿.com
+```
+
  ➤ 吃猫的鱼
 ```
 https://d.kstore.dev/download/7213/吃猫的鱼
