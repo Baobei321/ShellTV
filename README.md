@@ -84,6 +84,10 @@
 
 <img src="images/drive.png" alt="Example Image" width="600" >
 
+### 直播、回看
+
+<img src="images/live2.png" alt="Example Image" width="600" >
+
 --- 
 
 ## 🔑 玩法
@@ -129,7 +133,7 @@
 ```
 不同IPTV运营商的每个频道参数有所不同，如果网上找不到，需要自己用wireshark等工具抓包进行分析。
 
-    ⚠️ 如果你是进阶玩家，可以在[源配置文件（.json）](./源配置样例.json)中引用已上传到机顶盒的[直播配置文件（.m3u）](./直播配置传统格式.m3u)，无需在系统设置中另行[配置直播源](./images/iptv.png)。
+⚠️ 如果你是进阶玩家，可以在[源配置文件（.json）](./源配置样例.json)中引用已上传到机顶盒的[直播配置文件（.m3u）](./直播配置传统格式.m3u)，无需在系统设置中另行[配置直播源](./images/iptv.png)。
    
 
 
