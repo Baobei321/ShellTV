@@ -120,9 +120,12 @@
 
 4.将修改后的配置文件（.m3u）上传到机顶盒：打开[APP源配置界面](./images/config.png) ➜ [用电脑或手机连接](./images/config_pc.png) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将直播配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/iptv.png)（例如，`http://localhost:9978/file/shelltv/源配置样例.json` ，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.png)上显示的端口号，“localhost”和“file”是固定的） ➜ 确定保存并退出。(⚠️ 一个测试以上配置是否正确的方法是，将上面前一种地址（http开头）输入到处于同一局域网的电脑浏览器的地址栏中，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
 
-4.在**电视壳子**主页，点击直播，即可看到[直播节目](./images/broadcast.png)。（⚠️ 注意选择正确的播放器，通常是IJK，你也可以在[源配置文件（.json）](./源配置样例.json)中指定）
+5.在**电视壳子**主页，点击直播，即可看到[直播节目](./images/broadcast.png)。（⚠️ 注意选择正确的播放器，通常是IJK，你也可以在[源配置文件（.json）](./源配置样例.json)中指定）
+
+6.关于回看功能，需要在配置文件（.m3u）中对支持回看的相应频道进行配置，如 #EXTINF:-1 tvg-name="CCTV5" catchup="default" catchup-days="5" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226113/10000100000000060000000000831269_0.smil",CCTV-5 体育 不同IPTV运营商的每个频道参数有所不同，如果网上找不到，需要自己用wireshark等工具抓包进行分析。
 
     ⚠️ 如果你是进阶玩家，可以在[源配置文件（.json）](./源配置样例.json)中引用已上传到机顶盒的[直播配置文件（.m3u）](./直播配置传统格式.m3u)，无需在系统设置中另行[配置直播源](./images/iptv.png)。
+   
 
 
 ## 🎉 捐赠
