@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1"  group-title="[高清]央视",CCTV-1综合[高清]
 rtp://239.3.1.129:8008
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  group-title="[高清]央视",CCTV-2财经[高清]
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  group-title="[高清]央视" catchup="default" catchup-days="5" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226036/10000100000000060000000000285832_0.smil",CCTV-2财经[高清]
 rtp://239.3.1.60:8084
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视"  group-title="[高清]卫视",湖南卫视[高清]
