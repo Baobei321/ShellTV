@@ -15,7 +15,7 @@
 - 上网搜索“tvbox 最新配置”，复制url地址(如， http://... )，进入APP的设置页面，将url地址输入到“源地址”位置（可以手动输入，或通过同一局域网中的手机或电脑远程输入），保存、退出。
 - 这里是[网上几个源(点击)](source.md)，使用时，请自行甄别版权的合法性。
 <img src="images/home_fast.jpg" alt="Example Image" width="600" >
-<img src="images/setting_fast.jpg" alt="Example Image" width="600" >
+<img src="images/setting_fast.jpeg" alt="Example Image" width="600" >
 <img src="images/config_fast.jpg" alt="Example Image" width="600" >
 
 
