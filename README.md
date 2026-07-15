@@ -1,5 +1,5 @@
 <h1 align="center">电视壳子（ShellTV）</h1>
-<img src="./images/shelltv_white.png" alt="My Image" width="100"/>
+<img src="./images/shelltv_white.jpg" alt="My Image" width="100"/>
 
 - [快速上手](#-快速上手)
 - [关于此项目](#-关于此项目)
@@ -58,35 +58,35 @@
 
 ### 主页
 
-<img src="images/home.png" alt="Example Image" width="600" >
+<img src="images/home.jpg" alt="Example Image" width="600" >
 
 ### 数据源选择
 
-<img src="images/source_select.png" alt="Example Image" width="600" >
+<img src="images/source_select.jpg" alt="Example Image" width="600" >
 
 ### 搜索页
 
-<img src="images/fastSearch.png" alt="Example Image" width="600" >
+<img src="images/fastSearch.jpg" alt="Example Image" width="600" >
 
 ### 详情页
 
-<img src="images/detail.png" alt="Example Image" width="600" >**
+<img src="images/detail.jpg" alt="Example Image" width="600" >**
 
 ### 影人关联
 
-<img src="images/personage.png" alt="Example Image" width="600" >
+<img src="images/personage.jpg" alt="Example Image" width="600" >
 
 ### 无效阿里源屏蔽
 
-<img src="images/disable.png" alt="Example Image" width="600" >
+<img src="images/disable.jpg" alt="Example Image" width="600" >
 
 ### 网盘挂载
 
-<img src="images/drive.png" alt="Example Image" width="600" >
+<img src="images/drive.jpg" alt="Example Image" width="600" >
 
 ### 直播、回看
 
-<img src="images/live2.png" alt="Example Image" width="600" >
+<img src="images/live2.jpg" alt="Example Image" width="600" >
 
 --- 
 
@@ -95,7 +95,7 @@
 #### 1. 入门玩家
 （1）百度或Github 搜索配置文件，复制URL地址，关键词：TVBox配置（最好先在电脑上试一下配置文件是否能正常下载，[这里](./source.md)是的几个网上搜索到的源，请自行确认其版权的合法性）。
 
-（2）进入[APP配置源地址界面](./images/config.png) ➜ 直接输入URL地址或在[远程控制界面](./images/config_pc.png)中输入URL地址 ➜ 确定保存、退出
+（2）进入[APP配置源地址界面](./images/config.jpg) ➜ 直接输入URL地址或在[远程控制界面](./images/config_pc.jpg)中输入URL地址 ➜ 确定保存、退出
 
    ⚠️ 入门玩家可能受制于源配置服务器的稳定性
 
@@ -107,7 +107,7 @@
 
 （3）获取机顶盒文件[存储权限](./images/rights.jpg)。
 
-（4）将修改后的配置文件（.json）和相关的其它文件（.jar, .m3u）上传到机顶盒：打开[APP源配置界面](./images/config.png) ➜ [用电脑或手机连接](./images/config_pc.png) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/source.png), 或直接点击[刚刚上传的配置文件](./images/new_local_file.png)，然后[选择clan开头的地址](./images/clan.png)，点击【使用】按钮（如果是手工填写地址，以下两种格式均可，`http://localhost:9978/file/shelltv/源配置样例.json` 或 `clan://localhost/shelltv/源配置样例.json`，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.png)上显示的端口号，“localhost”和“file”是固定的，如果系统中有多个tvbox版本，推荐使用后一种地址，以避免端口冲突） ➜ 确定保存并退出。(⚠️ 一个测试以上配置是否正确的方法是，将上面前一种地址（http开头）输入到处于同一局域网的电脑浏览器的地址栏中，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
+（4）将修改后的配置文件（.json）和相关的其它文件（.jar, .m3u）上传到机顶盒：打开[APP源配置界面](./images/config.jpg) ➜ [用电脑或手机连接](./images/config_pc.jpg) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/source.jpg), 或直接点击[刚刚上传的配置文件](./images/new_local_file.jpg)，然后[选择clan开头的地址](./images/clan.jpg)，点击【使用】按钮（如果是手工填写地址，以下两种格式均可，`http://localhost:9978/file/shelltv/源配置样例.json` 或 `clan://localhost/shelltv/源配置样例.json`，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.jpg)上显示的端口号，“localhost”和“file”是固定的，如果系统中有多个tvbox版本，推荐使用后一种地址，以避免端口冲突） ➜ 确定保存并退出。(⚠️ 一个测试以上配置是否正确的方法是，将上面前一种地址（http开头）输入到处于同一局域网的电脑浏览器的地址栏中，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
 
    ⚠️ 由于配置文件在本地，整体上看，进阶玩家可以享受相对稳定的服务，但需要定期自行检查、更新各站点的可用性
 
@@ -122,9 +122,9 @@
 
 3.获取机顶盒文件[存储权限](./images/rights.jpg)。
 
-4.将修改后的配置文件（.m3u）上传到机顶盒：打开[APP源配置界面](./images/config.png) ➜ [用电脑或手机连接](./images/config_pc.png) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将直播配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/iptv.png)（例如，`http://localhost:9978/file/shelltv/源配置样例.json` ，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.png)上显示的端口号，“localhost”和“file”是固定的） ➜ 确定保存并退出。(⚠️ 一个测试以上配置是否正确的方法是，将上面前一种地址（http开头）输入到处于同一局域网的电脑浏览器的地址栏中，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
+4.将修改后的配置文件（.m3u）上传到机顶盒：打开[APP源配置界面](./images/config.jpg) ➜ [用电脑或手机连接](./images/config_pc.jpg) ➜ [创建一个文件夹](./images/folder.jpg)（如 shelltv） ➜ 将直播配置文件上传至该文件夹 ➜ [在APP源配置界面“源地址”一栏中填写正确地址](./images/iptv.jpg)（例如，`http://localhost:9978/file/shelltv/源配置样例.json` ，其中，shelltv是刚刚创建的方件夹，源配置样例.json是上传的配置文件、9978是[APP源配置界面](./images/config.jpg)上显示的端口号，“localhost”和“file”是固定的） ➜ 确定保存并退出。(⚠️ 一个测试以上配置是否正确的方法是，将上面前一种地址（http开头）输入到处于同一局域网的电脑浏览器的地址栏中，将localhost换成机顶盒的实际地址，应该可以下载这个文件)
 
-5.在**电视壳子**主页，点击直播，即可看到[直播节目](./images/broadcast.png)。（⚠️ 注意选择正确的播放器，通常是IJK，你也可以在[源配置文件（.json）](./源配置样例.json)中指定）
+5.在**电视壳子**主页，点击直播，即可看到[直播节目](./images/broadcast.jpg)。（⚠️ 注意选择正确的播放器，通常是IJK，你也可以在[源配置文件（.json）](./源配置样例.json)中指定）
 
 6.关于回看功能，需要在配置文件（.m3u）中对支持回看的频道进行相应配置，如 
 ```
@@ -133,7 +133,7 @@
 ```
 不同IPTV运营商的回看频道参数有所不同，如果网上找不到，需要自己用wireshark等工具抓包进行分析。
 
-⚠️ 如果你是进阶玩家，可以在[源配置文件（.json）](./源配置样例.json)中引用已上传到机顶盒的[直播配置文件（.m3u）](./直播配置传统格式.m3u)，无需在系统设置中另行[配置直播源](./images/iptv.png)。
+⚠️ 如果你是进阶玩家，可以在[源配置文件（.json）](./源配置样例.json)中引用已上传到机顶盒的[直播配置文件（.m3u）](./直播配置传统格式.m3u)，无需在系统设置中另行[配置直播源](./images/iptv.jpg)。
    
 
 
@@ -142,7 +142,7 @@
 
 捐赠方式：应用首页  ➜  【捐赠】按钮
 
-<img src="images/donation.png" alt="Example Image" width="600" >
+<img src="images/donation.jpg" alt="Example Image" width="600" >
 
 
 
