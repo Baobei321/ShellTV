@@ -84,9 +84,25 @@
 
 <img src="images/drive.jpg" alt="Example Image" width="600" >
 
+### 网盘挂载2
+
+<img src="images/drive3.jpg" alt="Example Image" width="600" >
+
 ### 直播、回看
 
 <img src="images/live2.jpg" alt="Example Image" width="600" >
+
+### 直播、预约
+
+<img src="images/live4.jpg" alt="Example Image" width="600" >
+
+### 壁纸设置
+
+<img src="images/wallpaper.jpg" alt="Example Image" width="600" >
+
+### 主题设置
+
+<img src="images/theme.jpg" alt="Example Image" width="600" >
 
 --- 
 
