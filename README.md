@@ -61,7 +61,7 @@
 
 ### 主页
 
-<img src="images/home.jpg" alt="Example Image" width="600" >
+<img src="images/homepage.jpg" alt="Example Image" width="600" >
 
 ### 数据源选择
 
