@@ -2,17 +2,9 @@
 用户请自行甄别其版权合法性，本站不对内容负责。
 直播部分建议自行搞定iptv
 
- ➤ 影视仓 
-```
-http://影视仓.com
-```
- ➤ 影视猫 CatVod
-```
-https://tvbox.catvod.com/catvod.json
-```
  ➤ 饭太硬
 ```
-http://www.饭太硬.com/tv
+http://www.饭太硬.cc/tv
 ```
  ➤ 饭太硬备份（只能用ShellTV APP访问）
 ```
@@ -33,4 +25,13 @@ https://肥猫.com
  ➤ 王二小放牛娃
 ```
 http://tvbox.王二小放牛娃.top
+```
+
+ ➤ 影视仓 
+```
+http://影视仓.com
+```
+ ➤ 影视猫 CatVod
+```
+https://tvbox.catvod.com/catvod.json
 ```
